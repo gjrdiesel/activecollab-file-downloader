@@ -1,0 +1,7 @@
+Downloads/*
+!Downloads/.gitkeep
+
+json_responses/*
+!json_responses/.gitkeep
+
+download_files.sh
